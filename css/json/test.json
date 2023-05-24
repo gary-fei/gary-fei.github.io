@@ -14,5 +14,13 @@
       "import React from 'react'",
       "const a='test'"
     ]
+  },
+  {
+    "key": "gary-reactTest",
+    "prefix": "gary-newtmp",
+    "body": [
+      "import React from 'react'",
+      "const a='newtmp'"
+    ]
   }
 ]
