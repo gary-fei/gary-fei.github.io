@@ -1,8 +1,18 @@
-{
+[
+  {
     "key": "garyTest",
     "prefix": "garyTestSnippet",
     "body": [
       "mytest line 1",
       "mytest line 2"
     ]
+  },
+  {
+    "key": "gary-reactTest",
+    "prefix": "gary-react",
+    "body": [
+      "import React from 'react'",
+      "const a='test'"
+    ]
   }
+]
