@@ -16,7 +16,7 @@
     ]
   },
   {
-    "key": "gary-reactTest",
+    "key": "gary-newtmp",
     "prefix": "gary-newtmp",
     "body": [
       "import React from 'react'",
